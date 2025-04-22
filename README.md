@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Built with WebLLM](https://img.shields.io/badge/Built%20with-WebLLM-blue)](https://github.com/mlc-ai/web-llm)
-[![React](https://img.shields.io/badge/React-18-61DAFB)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38B2AC)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-19-61DAFB)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38B2AC)](https://tailwindcss.com/)
 
 ## [🚀 Try it now!](https://thomas-mckanna.github.io/legalese-to-plain-english/)
 
@@ -42,17 +42,13 @@ Legalese Decoder uses WebLLM to run large language models directly in your brows
 
 - Decoding terms of service agreements
 - Understanding legal contracts before signing
-- Simplifying complex legal documents for clients
 - Making legal information more accessible to non-lawyers
-- Helping students understand legal case studies
 
 ## Future Improvements
 
 - **Multi-language support** - Translate legal text from and to multiple languages
 - **Image OCR integration** - Extract text directly from images or PDFs of legal documents
 - **OpenAI API integration** - Option to use OpenAI's models via API key for enhanced performance
-- **Document summarization** - Provide concise summaries of lengthy legal documents
-- **Legal term highlighting** - Identify and explain specific legal terms within documents
 - **Export and sharing options** - Save and share your decoded text in various formats
 
 ## Local Development
